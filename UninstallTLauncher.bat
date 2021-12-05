@@ -1,0 +1,1 @@
+del C:\Users\%USERPROFILE%\AppData\Roaming\.tlauncher /s/q

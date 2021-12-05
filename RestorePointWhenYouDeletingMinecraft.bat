@@ -1,0 +1,1 @@
+wmic.exe /Namespace:\\root\default Path SystemRestore Call CreateRestorePoint "Delete Minecraft", 100, 7
