@@ -1,0 +1,1 @@
+Checkpoint-Computer -Description "DeletingMinecraft" -RestorePointType "MODIFY_SETTINGS"
