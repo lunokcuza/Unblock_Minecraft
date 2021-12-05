@@ -1,8 +1,0 @@
-msgbox"Virus is no joce Complete? Launch?",32,"18+"
-msgbox"I WILL TO DESTROY YOU",16,"UnlockMinecraft.exe"
-msgbox"UDU Ko MHe HRM-HRM",16,"UnlockMinecraft.exe"
-msgbox"Out OF MEMORY",16,"MaJlo JLaMRTu"
-msgbox"HeJLb3R DeJluTb Ha H0Jlb",16,"0:0"
-msgbox"I EAT FILES HA 3ABTPAK",16,"HRM-HRM"
-msgbox"I`M NOT BUG, I FEATURE!!",16,"BUG"
-msgbox"pC explode WITH 30 SEC",16,"F5"
