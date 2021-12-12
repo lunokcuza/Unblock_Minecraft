@@ -1,0 +1,11 @@
+The instruction for delete Minecraft.
+(for Windows 2000, XP, Vista, 7, 8, 8.1, 10, 11 (32/64 bits))
+
+1. Open RestorePointWhenYouDeletingMinecraft.bat before you delete Minecraft.
+For Windows 7, 8, 8.1, 10, 11 open RestorePointWhenYouDeletingMinecraft.ps1 .
+Creating Restore Point manually
+Open Start > Control Panel > System > System protection > Create restore point.
+2. Open \Delete Minecraft\Uninstall.bat.
+3. If you have the launcher, open UninstallTLauncher.bat
+
+Minecraft has deleted!
