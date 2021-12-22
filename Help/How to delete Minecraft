@@ -6,7 +6,8 @@ For Windows 7, 8, 8.1, 10, 11 open RestorePointWhenYouDeletingMinecraft.ps1 .
 Creating Restore Point manually
 Open Start > Control Panel > System > System protection > Create restore point.
 Hint: If system protection disabled on disk C or D:, turn on.
+If is using Windows 2000, XP
+1.1 Create backup disk or system backup.
 2. Open \Delete Minecraft\Uninstall.bat.
 3. If you have the launcher, open UninstallTLauncher.bat
-
 Minecraft has deleted!
